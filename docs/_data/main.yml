@@ -2,16 +2,16 @@
 title: NCNA ICPC | North Central Regional Programming Contest
 description: North Central Regional Collegiate Programming Contest
 logo: "/img/think-create-solve-white.svg"
-logotext: " | rocky.icpc.io"
+logotext: " | ncna.icpc.io"
 
 # Banner
 banner:
-  bg-img: /img/NorthAmerica.png
-  image: /img/mountains.png #banner image on left side
-  title: North Central Regional Contest (NCNA)
-  title2: A North American Regional
+  bg-img: /img/ncna_region_img.png
+  image: #/img/ncna_region_img.png #/img/mountains.png #banner image on left side
+  title: North Central North America Regional Contest (NCNA)
+  title2: 
   description: International Collegiate Programming Contest (ICPC)
-  contest_date: February 26, 2022
+  contest_date: Saturday February 26, 2022
 
 
 # Contact form
@@ -19,7 +19,7 @@ api_token: # Enter API token here
 
 # Contact info
 sponsorship_contact:
-  name: Ram Basnet
+  name: Ch
   title: Event Coordinator
   email: rbasnet@coloradomesa.edu
 
@@ -29,7 +29,7 @@ twitter:
 instagram:
 
 # Footer
-copyright: Rocky Mountain Regional ICPC
+copyright: North Central North America Regional
 
 # Theme Settings
 analytics:

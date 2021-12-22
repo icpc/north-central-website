@@ -1,7 +1,7 @@
 # sites that hosts regional contests
 - name: University of Alberta
   location: Alberta, Canada
-  url: https://rocky.icpc.io/ualberta/
+  url: https://rocky.icpc.io/sites/ualberta/
 
 - name: Montana Tech
   location: Butte, Montana
@@ -9,7 +9,7 @@
 
 - name: Brigham Young University
   location: Provo, Utah
-  url: https://rocky.icpc.io/byu/
+  url: https://rocky.icpc.io/sites/byu/
 
 - name: Colorado School of Mines
   location: Golden, Colorado
@@ -17,6 +17,4 @@
 
 - name: University of Arizona
   location: Tucson, Arizona
-  url: https://rocky.icpc.io/uarizona/
-
-
+  url: http://localhost:4000/uarizona/

@@ -33,7 +33,7 @@
                         style="color:white;"
                         href="{{ site.url }}"
                     >
-                        RMC Home
+                        {% if site.data.main.copyright %} {{ site.data.main.copyright }} {% endif %}Home
                     </a>
                 </li>
             </ul>
