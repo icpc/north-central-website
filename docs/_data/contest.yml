@@ -1,11 +1,11 @@
 # data for contest information
-year: 2019 # contest year
+year: 2022 # contest year
 
 date:
-    regular: October 15 # regular registration deadline
-    late: October 22 # late registration deadline
-    practice: October 25
-    contest: October 26
+    regular: #February 26 # regular registration deadline
+    late: #October 22 # late registration deadline
+    practice: #October 25
+    contest: February 26
 
 # registration fees for different countries participating in the region
 fees:
@@ -28,13 +28,13 @@ fees:
       regular: 85 CAN per team
       late: 160 CAN per team
       check:
-      
+
           payable: University of Alberta # payable to
           address:
               - address: RMRC Regional Contest
               - address: c/o Stephanie Brown
               - address: Department of Computing Science
               - address: 2-21 Athabasca Hall
-              - address: University of Alberta	      
+              - address: University of Alberta
               - address: Edmonton, AB T6G 2E8
           note: Checks MUST have the school name on the memo line.
