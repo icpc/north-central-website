@@ -60,7 +60,7 @@ PLATFORMS
   x86_64-darwin-20
 
 DEPENDENCIES
-  jekyll (~> 3.8)
+  jekyll (> 3.9)
   kramdown-parser-gfm
   webrick (~> 1.7)
 
