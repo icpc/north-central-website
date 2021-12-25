@@ -112,7 +112,7 @@ layout: default
             {% for sponsor in site.data.sponsors.sponsors %}
             <div class="col-sm-6 col-md-4 center-block">
                 <div class="sponsor" align="center">
-                    <img src="/img/sponsors/{{ sponsor.logo }}" style="height:50px" />
+                    <img src="{{site.url}}/img/sponsors/{{ sponsor.logo }}" style="height:50px" />
                     <h3><a href="{{ sponsor.url }}" target="_blank">{{ sponsor.name }}</a></h3>
                     <h4>{{ sponsor.description }}</h4>
                 </div>
@@ -214,7 +214,7 @@ layout: default
     {% for member in site.data.people %}
         <div class="expandable-box">
             <div class="expandable-box-top">
-                <img width="200px" src="/img/people/{{ member.image }}" alt="{{ member.name }}">
+                <img width="200px" src="{{site.url}}/img/people/{{ member.image }}" alt="{{ member.name }}">
                 <h3>{{ member.name }}</h3>
                 <h4>{{ member.position }}</h4>
             </div>
