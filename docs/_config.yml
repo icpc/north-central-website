@@ -1,8 +1,8 @@
 # Build settings
 markdown: kramdown
 
-url: https://rocky.icpc.io # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g., /blog/
+url: https://icpc.io # the base hostname & protocol for your site
+baseurl: "north-central-website" # the subpath of your site, e.g., /blog/
 
 exclude: [
  package.json,
@@ -15,10 +15,8 @@ exclude: [
 ]
 
 # Theme Settings
-analytics: 
+analytics:
 google_verification:
 
 # Contact form
 api_token: # Enter API token here
-
-
