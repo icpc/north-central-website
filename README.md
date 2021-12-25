@@ -1,7 +1,8 @@
 # North Central - NA Regional
-# This is using the Rocky Mountain regional template
 
 ## Website
+# This is using the Rocky Mountain regional template
+
 - in docs folder
 - see docs/README.md for more info
 
