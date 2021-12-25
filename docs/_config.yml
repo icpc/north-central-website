@@ -1,7 +1,7 @@
 # Build settings
 markdown: kramdown
 
-url: https://ncna.icpc.io/north-central-website # the base hostname & protocol for your site
+url: https://icpc.io/north-central-website # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g., /blog/ //SM keep blank
 
 exclude: [
