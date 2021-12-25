@@ -2,7 +2,7 @@
 markdown: kramdown
 
 url: https://icpc.io # the base hostname & protocol for your site
-baseurl: "north-central-website" # the subpath of your site, e.g., /blog/
+baseurl: "https://icpc.io/north-central-website" # the subpath of your site, e.g., /blog/
 
 exclude: [
  package.json,
