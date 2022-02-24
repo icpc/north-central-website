@@ -1,10 +1,1 @@
 # data for contest information
-year: 2022 # contest year
-
-date:
-    regular: #February 26 # regular registration deadline
-    late: #October 22 # late registration deadline
-    practice: #October 25
-    contest: February 26
-
-# registration fees for different countries participating in the region
