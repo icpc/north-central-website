@@ -6,10 +6,10 @@ logotext: " | ncna.icpc.io"
 
 # Banner
 banner:
-  bg-img: /img/ncna_region_img.png
+  bg-img: 
   image: #/img/ncna_region_img.png #/img/mountains.png #banner image on left side
-  title: North Central North America Regional Contest (NCNA)
-  title2: (WORK IN PROGRESS)
+  title: SITE NOT VALID
+  title2: DEFUNCT SITE
   description: International Collegiate Programming Contest (ICPC)
   contest_date: Saturday February 26, 2022
 
